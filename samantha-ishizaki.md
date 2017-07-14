@@ -42,7 +42,7 @@ Coordenadores e colaboradores devem usar este formulário para desenvolver e aco
 - Organização.
 
 ## 2 - Quais são as duas ou três áreas em que você precisa trabalhar para gerar o seu crescimento profissional?
-- Lógica de progamação.
+- Programaçao Orientada a Objetos.
 - Gerenciamemto de tempo.
 
 # Plano de desenvolvimento
@@ -52,6 +52,6 @@ SMART: Específico, mensurável, relevante e com prazo.
 
 | **Desenvolvimento necessário / Ações (específico, mensurável e relevante)**                                            | **Por quanto tempo?** | **Resultados esperados / envolvimento de outros (mensurável)**                                                                                                                                                                                                                                     |
 | ---------------------------------------------------------------------------------------------------------------------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Estudar lógica de programação                                                                                          | 2 a 6 meses           | Para melhorar meus conhecimentos em lógica de programação, vou pesquisar mais sobre o assunto e aplicar a teoria na prática.                                                                                                                                                                       |
+| Estudar programação orientada a objetos                                                                                          | 2 a 6 meses           | Para melhorar meus conhecimentos em programação orientada a objetos, vou pesquisar mais sobre o assunto e aplicar a teoria na prática.                                                                                                                                                                       |
 | Gerenciar melhor o tempo entre trabalho e estudos                                                                      | 6 meses a 1 ano       | Aprender a gerenciar o tempo é fundamental para a organização das tarefas existentes tanto no ambiente de trabalho quanto no escolar.                                                                                                                                                              |
 
